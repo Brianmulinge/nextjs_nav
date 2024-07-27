@@ -1,6 +1,6 @@
-import { SideNaveItem } from "./types";
+import { SideNavItem } from "./types";
 
-export const SIDENAVITEMS: SideNaveItem[] = [
+export const SIDENAVITEMS: SideNavItem[] = [
   {
     title: "Home",
     path: "/",
